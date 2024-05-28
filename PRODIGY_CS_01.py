@@ -67,3 +67,5 @@ result_entry.grid(row=3, column=1, padx=10, pady=10)
 
 # Start the main event loop
 root.mainloop()
+
+#end of the code
